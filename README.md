@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mihir+Maheta!;" /></h1>
 
 <h3 align="center" style="color: #4A90E2;">A passionate Mobile Application Developer from India</h3>
-<img  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhoeTZmcDVyemJxbDBxN3B0YjF2dWx3OGZ6OWdudzB3emtwbmd0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7uDtQm2jKdS0VGLg46/giphy.gif" width="300px" height="500px" align="right" alt="">
+<img src="./assets/your-animation.gif" width="300px" height="500px" align="right" alt="Developer animation">
 
 <br/>
 
