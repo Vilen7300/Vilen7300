@@ -30,15 +30,16 @@
 <br/>
 
 - 👨‍💻 All of my projects are available at [my LinkedIn](https://www.linkedin.com/in/maheta-mihir-a5313317b/)
-
 - 💬 Ask me about **React Native, Redux, HTML, CSS, Flutter...**
-
 - 📫 How to reach me: **mahetamihir7300@gmail.com**
 
 <h3 align="left" style="color: #4A90E2;">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/maheta-mihir-a5313317b/" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <a href="mailto:mahetamihir7300@gmail.com">
+        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg" alt="Gmail" height="30" width="40" />
     </a>
 </p>
 
@@ -57,6 +58,27 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
     </a>
 </p>
+
+<h3 align="left" style="color: #4A90E2;">Projects:</h3>
+<ul>
+    <li><a href="https://github.com/yourusername/project1" target="_blank">Project 1</a> - A brief description of what this project does.</li>
+    <li><a href="https://github .com/yourusername/project2" target="_blank">Project 2</a> - A brief description of what this project does.</li>
+    <li><a href="https://github.com/yourusername/project3" target="_blank">Project 3</a> - A brief description of what this project does.</li>
+</ul>
+
+<h3 align="left" style="color: #4A90E2;">Achievements:</h3>
+<ul>
+    <li>Completed a certification in Mobile App Development from XYZ Institute.</li>
+    <li>Participated in Hackathon 2023 and secured 2nd place.</li>
+</ul>
+
+<h3 align="left" style="color: #4A90E2;">Interests:</h3>
+<p>I am interested in exploring new technologies, contributing to open-source projects, and learning about AI and machine learning.</p>
+
+<h3 align="left" style="color: #4A90E2;">Testimonials:</h3>
+<blockquote>
+    "Mihir is a dedicated developer who consistently delivers high-quality work." - Colleague Name
+</blockquote>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vilen7300&show_icons=true&locale=en&layout=compact" alt="Maheta Mihir" /></p>
 
