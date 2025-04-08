@@ -4,7 +4,7 @@
 
 <h3 align="center" style="color: #4A90E2;">A passionate Mobile Application Developer from India</h3>
 <div align="center">
-    <img src="https://lottie.host/embed/96122d11-f788-4d13-8ca6-d634900bbc34/TaToYQOZQ0.json.gif" alt="Your Animation" width="300" height="300" style="border-radius: 10px;"/>
+    <img src="https://lottie.host/embed/96122d11-f788-4d13-8ca6-d634900bbc34/TaToYQOZQ0.json.gif" alt="Your Animation" width="300" height="300"/>
 </div>
 
 
