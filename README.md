@@ -61,6 +61,8 @@
   
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vilen7300&show_icons=true&locale=en&layout=compact" alt="maheta-mihir" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vilen7300&show_icons=true&locale=en&layout=compact" alt="Maheta Mihir" /></p>
 
-<p>&nbsp;<
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vilen7300&show_icons=true&locale=en" alt="Maheta MIhir" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vilen7300&" alt="Maheta MIhir" /></p>
