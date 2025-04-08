@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mihir+Maheta!;" /></h1>
 
 <h3 align="center" style="color: #4A90E2;">A passionate Mobile Application Developer from India</h3>
-<img src="./assets/animation.gif" width="300px" height="500px" align="right" alt="Developer animation">
+<img src="./assets/mobile.jpg" width="100%" height="500px" align="center" alt="Developer animation">
 
 <br/>
 
@@ -37,7 +37,7 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
     <a href="mailto:mahetamihir7300@gmail.com">
-        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg" alt="Gmail" height="30" width="40" />
+        <img align="center" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" height="30" width="40" />
     </a>
 </p>
 
