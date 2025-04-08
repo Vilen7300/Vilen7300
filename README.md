@@ -3,19 +3,10 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mihir+Maheta!;" /></h1>
 
 <h3 align="center" style="color: #4A90E2;">A passionate Mobile Application Developer from India</h3>
-<script
-  src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs"
-  type="module"
-></script>
+<div align="center">
+    <img src="https://your-gif-url.gif" alt="Your Animation" width="300" height="300" style="border-radius: 10px;"/>
+</div>
 
-<dotlottie-player
-  src="https://lottie.host/13da9497-19ee-4156-a7be-43fd4d19566e/jFA3fZKSHP.json"
-  background="transparent"
-  speed="1"
-  style="width: 300px; height: 300px"
-  loop
-  autoplay
-></dotlottie-player>
 
 <br/>
 
