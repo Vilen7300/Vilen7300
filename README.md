@@ -61,9 +61,11 @@
 
 <h3 align="left" style="color: #4A90E2;">Projects:</h3>
 <ul>
-    <li><a href="https://github.com/yourusername/project1" target="_blank">Project 1</a> - A brief description of what this project does.</li>
-    <li><a href="https://github .com/yourusername/project2" target="_blank">Project 2</a> - A brief description of what this project does.</li>
-    <li><a href="https://github.com/yourusername/project3" target="_blank">Project 3</a> - A brief description of what this project does.</li>
+    <li><a href="https://github.com/Vilen7300/heycouriers-react-native" target="_blank">Hey Couriers</a> -  A bulk delivery application designed for Austeriliya, enabling efficient management of courier services and logistics.</li>
+    <li><a href="https://github .com/Vilen7300/the_kilogram-web" target="_blank">The Kilogrm Resturant</a> - A restaurant website based in Ahmedabad, showcasing the menu, services, and online ordering features for customers..</li>
+    <li><a href="https://github.com/Vilen7300/AppDealWalaIND" target="_blank">Deal Wala Coupen Application</a> -A Flutter-based coupon application that helps users find and redeem various deals and discounts from local businesses.</li>
+    <li><a href="https://github.com/Vilen7300/infozeal" target="_blank">Infozeal Cab Application</a> - A cab management application designed for drivers to efficiently manage multiple trips and enhance their service delivery.</li>
+
 </ul>
 
 <h3 align="left" style="color: #4A90E2;">Achievements:</h3>
@@ -76,9 +78,7 @@
 <p>I am interested in exploring new technologies, contributing to open-source projects, and learning about AI and machine learning.</p>
 
 <h3 align="left" style="color: #4A90E2;">Testimonials:</h3>
-<blockquote>
-    "Mihir is a dedicated developer who consistently delivers high-quality work." - Colleague Name
-</blockquote>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vilen7300&show_icons=true&locale=en&layout=compact" alt="Maheta Mihir" /></p>
 
