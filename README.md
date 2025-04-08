@@ -15,12 +15,12 @@
     <h4>💬 Ask me about <strong>React Native, Redux, HTML, CSS, Flutter...</strong> or anything <a href="https://www.linkedin.com/in/maheta-mihir-a5313317b/" target="_blank">here</a></h4>
 </div>
 
-<div align="center">
+<div align="center"> 
     <a href="mailto:mahetamihir7300@gmail.com">
-        <img src="path_to_your_animated_gmail_icon.gif" alt="Gmail" width="100" />
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
     <a href="https://www.linkedin.com/in/maheta-mihir-a5313317b/" target="_blank">
-        <img src="path_to_your_animated_linkedin_icon.gif" alt="LinkedIn" width="100" />
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </div>
 
@@ -47,7 +47,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
     </a>
     <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
@@ -56,9 +56,6 @@
     <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
     </a>
-  
-   
-  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vilen7300&show_icons=true&locale=en&layout=compact" alt="Maheta Mihir" /></p>
