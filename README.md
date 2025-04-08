@@ -3,9 +3,14 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mihir+Maheta!;" /></h1>
 
 <h3 align="center" style="color: #4A90E2;">A passionate Mobile Application Developer from India</h3>
-<div align="center">
-    <img src="https://lottie.host/96122d11-f788-4d13-8ca6-d634900bbc34/TaToYQOZQ0.json.gif" alt="Your Animation" width="300" height="300"/>
-</div>
+<dotlottie-player
+  src="https://lottie.host/96122d11-f788-4d13-8ca6-d634900bbc34/TaToYQOZQ0.json.gif"
+  background="transparent"
+  speed="1"
+  style="width: 300px; height: 300px"
+  loop
+  autoplay
+></dotlottie-player>
 
 
 <br/>
