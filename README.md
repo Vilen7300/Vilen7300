@@ -1,18 +1,11 @@
-<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.js"></script>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mihir+Maheta!;" /></h1>
 
 <h3 align="center" style="color: #4A90E2;">A passionate Mobile Application Developer from India</h3>
-<dotlottie-player
-  src="https://lottie.host/96122d11-f788-4d13-8ca6-d634900bbc34/TaToYQOZQ0.json"
-  background="transparent"
-  speed="1"
-  style="width: 300px; height: 300px"
-  loop
-  autoplay
-></dotlottie-player>
+<img  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhoeTZmcDVyemJxbDBxN3B0YjF2dWx3OGZ6OWdudzB3emtwbmd0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7uDtQm2jKdS0VGLg46/giphy.gif" width="300px" height="500px" align="right" alt="">
+
 <br/>
 
 <div align="center" style="background-color: #f0f8ff; padding: 20px; border-radius: 10px;">
