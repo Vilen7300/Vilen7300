@@ -1,9 +1,13 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mihir+Maheta!;" /></h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mihir+Maheta;" /></h1>
 
-<h3 align="center" style="color: #4A90E2;">A passionate Mobile Application Developer from India</h3>
+<h3 align="center" style="color: #4A90E2;">
+  <img src="./assets/indian-flag.gif" width="30" height="30" style="vertical-align: middle; margin-right: 10px;" alt="Indian Flag">
+  A passionate Mobile Application Developer from India
+  <img src="./assets/indian-flag.gif" width="30" height="30" style="vertical-align: middle; margin-left: 10px;" alt="Indian Flag">
+</h3>
 <img src="./assets/mobile.jpg" width="100%" height="500px" align="center" alt="Developer animation">
 
 <br/>
