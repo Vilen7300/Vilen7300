@@ -4,7 +4,7 @@
 
 <h3 align="center" style="color: #4A90E2;">A passionate Mobile Application Developer from India</h3>
 <div align="center">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejd1ajE2bHYxZTFsdGhodmoyM2NrbDdvdjNpdW1mZ2g3cDlpaXBiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" width="400px" height="400px" alt="" style="border-radius: 10px;"/>
+    <img src="https://lottie.host/e4592f61-61a0-47f8-87b2-a22d766251cb/iU8mSoUILL.lottief" width="400px" height="400px" alt="" style="border-radius: 10px;"/>
 </div>
 
 <br/>
