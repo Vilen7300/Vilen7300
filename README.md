@@ -15,12 +15,12 @@
     <h4>💬 Ask me about <strong>React Native, Redux, HTML, CSS, Flutter...</strong> or anything <a href="https://www.linkedin.com/in/maheta-mihir-a5313317b/" target="_blank">here</a></h4>
 </div>
 
-<div align="center"> 
+<div align="center">
     <a href="mailto:mahetamihir7300@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+        <img src="path_to_your_animated_gmail_icon.gif" alt="Gmail" width="100" />
     </a>
     <a href="https://www.linkedin.com/in/maheta-mihir-a5313317b/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img src="path_to_your_animated_linkedin_icon.gif" alt="LinkedIn" width="100" />
     </a>
 </div>
 
