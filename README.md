@@ -1,7 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mihir+Maheta!;" />
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mihir+Maheta!;" /></h1>
 
 <h3 align="center" style="color: #4A90E2;">A passionate Mobile Application Developer from India</h3>
 <div align="center">
@@ -11,7 +10,7 @@
 <br/>
 
 <div align="center" style="background-color: #f0f8ff; padding: 20px; border-radius: 10px;">
-    <h4>🔭 I’m currently working on <strong>a React Native application</strong></h4>
+    <h4>🔭 I’m currently working on <strong>a React Native & Flutter applications</strong></h4>
     <h4>💬 Ask me about <strong>React Native, Redux, HTML, CSS, Flutter...</strong> or anything <a href="https://www.linkedin.com/in/maheta-mihir-a5313317b/" target="_blank">here</a></h4>
 </div>
 
@@ -68,11 +67,6 @@
 
 </ul>
 
-<h3 align="left" style="color: #4A90E2;">Achievements:</h3>
-<ul>
-    <li>Completed a certification in Mobile App Development from XYZ Institute.</li>
-    <li>Participated in Hackathon 2023 and secured 2nd place.</li>
-</ul>
 
 <h3 align="left" style="color: #4A90E2;">Interests:</h3>
 <p>I am interested in exploring new technologies, contributing to open-source projects, and learning about AI and machine learning.</p>
